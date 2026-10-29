@@ -1,48 +1,38 @@
 <div align="center">
 
-<!-- HEADER ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=10,20,30&height=200&section=header&text=%E2%9C%A8%20SOOOOO%20COOOOOL%20%E2%9C%A8&fontSize=50&fontColor=ff007f&animation=twinkling" width="100%"/>
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2A1B40&customColorList=0,15,30,45&height=180&section=header&text=LEVEL%2001%20%E2%80%A2%20MEET%20THE%20PLAYER&fontSize=38&fontColor=E0BBE4&animation=twinkling" width="100%"/>
 
-<h1>🐱⚡ 🪐 UNHINGED • ANIME • YEEZUS VIBES 🪐 ⚡🐱</h1>
+<h1>✨ KHALDOUN Fatima Zahra ✨</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VIBE-YEEZUS%20MODE-000000?style=for-the-badge&colorA=000000&colorB=ff007f" />
-  <img src="https://img.shields.io/badge/CAT%20ENERGY-100%25-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/STATUS-SO%20COOL-00ffff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BRAIN-HYPERFIXATING-ffd700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-UI%2FUX%20%7C%20FRONTEND%20DEV%20%7C%20N8N-2A1B40?style=for-the-badge&labelColor=7F5D99&color=A3C9A8" />
+  <img src="https://img.shields.io/badge/STATUS-READY%20TO%20BUILD-2A1B40?style=for-the-badge&labelColor=7F5D99&color=FAD0E2" />
 </p>
-
-> *"I refuse to accept other people's ideas of happiness for me. As if there's one size fits all."* — **Kanye West**
 
 </div>
 
 ---
 
-### 🧠 `SYSTEM_DIAGNOSTICS.log`
-
-* 🐾 Operating at **100% cat energy** & deep inside a new hyperfixation.
-* 🎧 Listening to *Yeezus* on repeat while coding at 3:00 AM.
-* ⚡ Obsessed with anime aesthetics, pixel art visuals, weird systems, and high-speed logic.
-* 🧠 System state: **Autistic hyper-focus mode active** with 90+ browser tabs open.
-
----
+### 🕹️ `PLAYER_CARD.sys`
 
 <div align="center">
 
-## 🐈‍⬛ About Me
-
 <table>
   <tr>
-    <td width="60%">
+    <td width="55%" valign="top">
+      <h3>🌸 Player Info</h3>
       <ul>
-        <li>🐱 <b>Species:</b> 80% Cat, 10% Kanye Ego, 10% Anime Protagonist.</li>
-        <li>💡 <b>Superpower:</b> Extreme pattern recognition & hyperfixation-driven programming.</li>
-        <li>🎮 <b>Vibe Matrix:</b> Cyberpunk visuals, lo-fi beats, weirdo mechanics, mechanical keyboards.</li>
-        <li>🚀 <b>Core Protocol:</b> <i>"If it works, don't touch it. If it looks cool, push it straight to main."</i></li>
+        <li><b>Player:</b> KHALDOUN Fatima Zahra</li>
+        <li><b>Role:</b> UI/UX Designer • Frontend Developer • n8n Automation Specialist</li>
+        <li><b>Mission:</b> Crafting intuitive, beautiful user interfaces backed by intelligent, seamless automated workflows.</li>
+        <li><b>Status:</b> Ready to explore, build, and innovate. Let's start the game!</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIwd3M2Z2UxbW10eGRyNmU1cWppOW5sbmN6ZHZ1cG1iNW5mdmdndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13A1mB11D4T09A/giphy.gif" width="210px" style="border-radius:10px;"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/fzkhaldoun/fzkhaldoun/main/assets/banner.jpg" width="100%" style="border-radius: 12px;" alt="Player Card Graphic"/>
+      <br/>
+      <sub><i>(Upload your custom header image to <code>assets/banner.jpg</code> in your repo)</i></sub>
     </td>
   </tr>
 </table>
@@ -51,63 +41,31 @@
 
 ---
 
-<div align="center">
-
-### 📬 Connect With Me
-
-<a href="mailto:fzkhaldoun@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/fzkhaldoun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://spotify.com"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black"/></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-</div>
-
----
+### 🗡️ WEAPONS MASTERY & SKILLS
 
 <div align="center">
-
-## 📊 GitHub Status
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fzkhaldoun&show_icons=true&theme=dark&hide_border=true&title_color=ff007f&icon_color=00ffff&text_color=ffffff&bg_color=0d0d0d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzkhaldoun&layout=compact&theme=dark&hide_border=true&title_color=ff007f&text_color=ffffff&bg_color=0d0d0d" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Languages & Tools I Have Played My Hands On
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,docker,vscode,linux,figma,cpp" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Best Repositories
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/fzkhaldoun/repo-1">
-        <h3>🐈‍⬛ Cat-OS / Hyperfixation Engine</h3>
-      </a>
-      <p>An overly optimized system created during a late-night anime & Kanye coding spree.</p>
-      <p><b>Tech:</b> React • Python • Tailwind</p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ Weapons Mastery (Tech Stack)</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,tail,blender,postman" /><br/><br/>
+          <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=CapCut&logoColor=white"/>
+        </a>
+      </p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/fzkhaldoun/repo-2">
-        <h3>⚡ Yeezus-Neural-Vibes</h3>
-      </a>
-      <p>Cyberpunk dark-mode aesthetics engine built for maximum weirdo cool energy.</p>
-      <p><b>Tech:</b> TypeScript • Node.js • Docker</p>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 Skills Mastery</h3>
+      <ul>
+        <li><b>Design Systems & User Research:</b> Structuring scalable UI guidelines & empathetic user research.</li>
+        <li><b>UI Design & Prototyping:</b> High-fidelity interactive layouts and visual design.</li>
+        <li><b>User Empathy & Visual Thinking:</b> Translating complex ideas into simple human interfaces.</li>
+        <li><b>Workflow Automation (n8n):</b> Connecting backend systems and API pipelines seamlessly.</li>
+        <li><b>Creative Problem Solving:</b> Merging frontend code with design logic.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -116,36 +74,41 @@
 
 ---
 
+### 🔗 CONNECT WITH ME
+
 <div align="center">
 
-## ⚡ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+| LinkedIn | X (Twitter) | Gmail | Portfolio | Medium | Kaggle |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://linkedin.com/in/fzkhaldoun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> | <a href="mailto:fzkhaldoun@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> | <a href="https://fzkhaldoun.github.io"><img src="https://img.shields.io/badge/Website-A3C9A8?style=for-the-badge&logo=firefox&logoColor=black"/></a> | <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a> | <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> |
 
 </div>
 
 ---
 
+### 📊 SYSTEM ACTIVITY & STATS
+
 <div align="center">
 
-## ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/fzkhaldoun" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
-</a>
+<!-- 3D ISOMETRIC CONTRIBUTION GRAPH -->
+<img src="https://github-readme-3d-contrib.a32.me/account/fzkhaldoun/profile-night-green" width="100%" alt="3D Contribution Graph"/>
 
 <br/><br/>
 
-<!-- ANIME SHRINE PIXEL SCENE FOOTER -->
-<img src="https://raw.githubusercontent.com/AnuragGharat/AnuragGharat/main/assets/japanese-shrine-pixel.gif" width="100%" alt="Anime Pixel Shrine" />
-
-<p><i>"Name one genius that ain't crazy."</i> 🐈‍⬛✨</p>
+<!-- STATS CARDS MATCHING PALETTE -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fzkhaldoun&show_icons=true&hide_border=true&bg_color=2A1B40&title_color=E0BBE4&text_color=FAD0E2&icon_color=A3C9A8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzkhaldoun&layout=compact&hide_border=true&bg_color=2A1B40&title_color=E0BBE4&text_color=FAD0E2" />
+</p>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2A1B40&customColorList=0,15,30,45&height=100&section=footer" width="100%"/>
+
+<p>🎮 <i>"Level complete. Ready for the next quest."</i></p>
+
+</div>s
