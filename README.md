@@ -57,7 +57,7 @@
 
 <br/>
 
-<!-- PIXEL SKILL ICONS (Tailwind & Postman removed) -->
+<!-- PIXEL SKILL ICONS -->
 <div align="center">
 
 <a href="https://skillicons.dev">
@@ -66,21 +66,14 @@
 
 </div>
 
-<br/>
 
-<!-- RETRO PIXEL STATS SECTION -->
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=C792EA&center=true&vCenter=true&width=300&height=30&lines=%F0%9F%93%8A+SYSTEM_ACTIVITY" />
+<!-- GITHUB STREAK STATS CARD -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fzkhaldoun&theme=dark&background=181126&stroke=3f2d5c&ring=c792ea&fire=ff79c6&currStreakNum=e2d5f8&sideNums=e2d5f8&sideTitle=c792ea&dates=9a80cc&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fzkhaldoun&show_icons=true&hide_border=true&bg_color=181126&title_color=c792ea&text_color=e2d5f8&icon_color=ff79c6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzkhaldoun&layout=compact&hide_border=true&bg_color=181126&title_color=c792ea&text_color=e2d5f8" />
-</p>
 
-<br/>
 
 <!-- RETRO CONNECT BAR -->
 <div align="center">
