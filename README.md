@@ -80,11 +80,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzkhaldoun&layout=compact&hide_border=true&bg_color=181126&title_color=c792ea&text_color=e2d5f8" />
 </p>
 
-<!-- 3D ISOMETRIC CONTRIBUTION MATRIX -->
-<img src="https://github-readme-3d-contrib.a32.me/account/fzkhaldoun/profile-night-green" width="100%" alt="3D Contribution Graph"/>
-
-</div>
-
 <br/>
 
 <!-- RETRO CONNECT BAR -->
