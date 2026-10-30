@@ -49,7 +49,7 @@
         <span style="color: #a3c9a8;">✦ UI/UX:</span> Figma, Wireframing<br/>
         <span style="color: #a3c9a8;">✦ Frontend:</span> HTML, CSS, JS, React<br/>
         <span style="color: #a3c9a8;">✦ Automation:</span> n8n Workflows<br/>
-        <span style="color: #a3c9a8;">✦ Tools:</span> VS Code, Git
+        <span style="color: #a3c9a8;">✦ Tools:</span> VS Code, Git , n8n
       </p>
     </td>
   </tr>
