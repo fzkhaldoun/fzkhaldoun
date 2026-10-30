@@ -83,14 +83,16 @@
     <td align="center" style="padding: 20px;">
       <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&color=A3C9A8&center=true&vCenter=true&width=350&height=30&lines=%F0%9F%93%A1+ESTABLISH+CONNECTION" />
       <br/><br/>
-* **Fatima Khaldoun** - *Author* - [@YourGitHubUsername](https://github.com/fzkhaldoun)
-  * 📧 Email: [fz.khaldoun@esi-sba.dz](mailto:fz.khaldoun@esi-sba.dz)
-  * 💼 LinkedIn: [Khaldoun Fatima](https://www.linkedin.com/in/kh-fatima-b5585a420)
+      <b>Fatima Khaldoun</b> - <i>Author</i>
+      <br/><br/>
+      📧 <b>Email:</b> <a href="mailto:fz.khaldoun@esi-sba.dz">fz.khaldoun@esi-sba.dz</a>
+      <br/>
+      💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kh-fatima-b5585a420">Khaldoun Fatima</a>
+    </td>
   </tr>
 </table>
 
-<br/>
-
+</div>
 <!-- PIXEL ANIME FOOTER -->
 <img src="https://raw.githubusercontent.com/AnuragGharat/AnuragGharat/main/assets/japanese-shrine-pixel.gif" width="100%" alt="Anime Pixel Shrine" />
 
